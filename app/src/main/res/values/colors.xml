@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBtnNaranja">#F5A01A</color>
+    <color name="colorBtnGrisClaro">#878889</color>
+    <color name="colorBtnNegroOsc">#6e7071</color>
+    <color name="colorFondoResul">#5f6161</color>
+    <color name="colorBordes">#606164</color>
+    <color name="colorTextnum">#FFFFFF</color>
+</resources>
